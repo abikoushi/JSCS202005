@@ -1,0 +1,7 @@
+区間打切りデータに基づく情報量規準と感染症の潜伏期間推定への応用
+Information Criterion Based on the Interval Censored Data and Its Application to Estimate the incubation period of 2019 Novel Coronavirus
+
+阿部興
+
+要旨
+感染症の潜伏期間の分布は, 防疫上の施策の基礎となる重要な情報である. しかし多くの感染症において, 発症した時点が特定される場合でも, 感染した日時が観測されることはまれであることが, 潜伏期間の分布の推定を困難にしている. Backer et al. (2020) はこの問題に対する1つのアプローチを示した. 本報告ではBacker et al. (2020) の方法に対して, 情報量基準の観点から考察を行う.

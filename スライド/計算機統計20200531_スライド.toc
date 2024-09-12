@@ -1,0 +1,6 @@
+\beamer@sectionintoc {1}{背景}{2}{0}{1}
+\beamer@sectionintoc {2}{観測モデルと尤度関数}{4}{0}{2}
+\beamer@sectionintoc {3}{情報量規準}{11}{0}{3}
+\beamer@sectionintoc {4}{シミュレーション}{17}{0}{4}
+\beamer@sectionintoc {5}{データ分析}{21}{0}{5}
+\beamer@sectionintoc {6}{まとめ}{24}{0}{6}
